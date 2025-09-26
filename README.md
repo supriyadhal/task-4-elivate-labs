@@ -4,6 +4,7 @@ Open index.html in a browser.
 Resize the window or open Chrome DevTools → Toggle Device Toolbar (Ctrl+Shift+M).
 See how the layout and navigation adjust for mobile!
 
+![image](https://github.com/supriyadhal/task-4-elivate-labs/blob/f720393127bc4806d3752b8776b9414c50711078/Screenshot%202025-09-26%20122157.png)
 ![image](https://github.com/supriyadhal/task-4-elivate-labs/blob/cde58181a9c9a0090cd490dfdae0550e7daab719/Screenshot%202025-09-26%20122216.png)
 
 ✅ How to Test
